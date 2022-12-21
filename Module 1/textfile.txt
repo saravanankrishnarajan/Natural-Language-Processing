@@ -1,0 +1,1 @@
+My app's associated domain does't work ant iOS 11.4 and iOS 12 beta. After some research I found that after iOS 11.4 only request.
